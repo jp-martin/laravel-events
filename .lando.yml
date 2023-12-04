@@ -1,0 +1,4 @@
+name: my-first-laravel-app
+recipe: laravel
+config:
+  webroot: app/public
